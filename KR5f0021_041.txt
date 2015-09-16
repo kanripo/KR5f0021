@@ -1,0 +1,32 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 02:24:47.438207
+#+TITLE: 抱樸子外篇
+#+PROPERTY: DZID  DZ1187
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，28—252 五十卷 太清部
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
+#+PROPERTY: LASTPB <pb:KR5f0021_SJB_041-280323a>
+#+PROPERTY: JUAN 41
+#+PROPERTY: ID KR5f0021
+<pb:KR5f0021_HFL_041-001a>¶
+抱朴子外篇卷之四十¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+<pb:KR5f0021_HFL_041-001b>¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
